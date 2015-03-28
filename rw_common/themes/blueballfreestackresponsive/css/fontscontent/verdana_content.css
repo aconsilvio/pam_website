@@ -1,0 +1,29 @@
+/*
+-------------------------------------------
+File: 'Blueball FreeStack Responsive' 
+verdana_content.css Style Sheet
+Created: 14, October, 2012
+Last Modified: 19, November, 2014
+Author: Blueball Design
+www.blueballdesign.com
+Copyright 2012-2014 Blueball Design LLC USA/Charlie Lockhart
+All Rights Reserved
+-------------------------------------------
+*/
+
+body {
+	font-family: Verdana, Helvetica, Arial, sans-serif;
+}
+
+blockquote, .standout {
+	font-family: Verdana, Helvetica, Arial, sans-serif;
+}
+
+#slogan h2 {
+	font-family: Verdana, Helvetica, Arial, sans-serif;
+}
+
+#footer {
+	font-family: Verdana, Helvetica, Arial, sans-serif;
+}
+

@@ -1,0 +1,31 @@
+@import url(http://fonts.googleapis.com/css?family=Arvo);
+
+/*
+-------------------------------------------
+File: 'Blueball FreeStacks Responsive' 
+arvo_content.css Style Sheet
+Created: 28, December, 2012
+Last Modified: 05, February 2013
+Author: Charlie Lockhart, Blueball Design
+www.blueballdesign.com
+Copyright 2013 Charlie Lockhart/Blueball Design USA
+All Rights Reserved
+-------------------------------------------
+*/
+
+
+body {
+	font-family: Arvo, Arial, Helvetica, sans-serif;
+}
+
+blockquote, .standout {
+	font-family: Arvo, Arial, Helvetica, sans-serif;
+}
+
+#slogan h2 {
+	font-family: Arvo, Arial, Helvetica, sans-serif;
+}
+
+#footer {
+	font-family: Arvo, Arial, Helvetica, sans-serif;
+}

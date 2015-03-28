@@ -1,0 +1,30 @@
+/*
+-------------------------------------------
+File: 'Blueball FreeStack Responsive' 
+georgia_content.css Style Sheet
+Created: 14, October, 2010
+Last Modified: 19, November, 2014
+Author: Blueball Design
+www.blueballdesign.com
+Copyright 2013-2014 Blueball Design LLC USA/Charlie Lockhart
+All Rights Reserved
+-------------------------------------------
+*/
+
+
+body {
+	font-family: Georgia, "Times New Roman", Times, serif;
+}
+
+blockquote, .standout {
+	font-family: Georgia, "Times New Roman", Times, serif;
+}
+
+#slogan h2 {
+	font-family: Georgia, "Times New Roman", Times, serif;
+}
+
+#footer {
+	font-family: Georgia, "Times New Roman", Times, serif;
+}
+

@@ -1,0 +1,70 @@
+/*
+-------------------------------------------
+File: 'Blueball FreeStacks Responsive' 
+fontsize_xlarge.css Style Sheet
+Created: 18, December, 2012
+Last Modified: 09, February, 2013
+Author: Charlie Lockhart, Blueball Design
+www.blueballdesign.com
+Copyright 2013 Charlie Lockhart/Blueball Design LLC USA
+All Rights Reserved
+-------------------------------------------
+*/
+
+body {font-size: 1.2em; line-height:1.6em;}
+
+blockquote, .standout {font-size: 1.8em;}
+
+h1 {font-size: 3.3em;}
+
+h2 {font-size: 2.7em;}
+
+h3 {font-size: 2.1em;}
+
+h4 {font-size: 1.8em;}
+
+h5 {font-size: 1.5em;}
+
+#sidebar {font-size: 1.2em;}
+
+#sidebar .sideHeader {font-size: 1.5em;}
+
+#sidebar h5 {font-size: 1.5em;}
+
+#breadcrumbcontainer {font-size: 1.05em;}
+
+#footer {font-size: 1.05em;}
+
+.blog-entry-title {font-size: 2.5em;}
+
+.blog-read-more a:link, 
+.blog-read-more a:visited, 
+.blog-read-more a:active {font-size: 1.05em;}
+
+.blog-read-more a:hover {font-size: 1.05em;}
+
+p.blog-entry-tags {font-size: 1.05em;}
+
+.blog-entry-comments {font-size: 1.05em;}
+
+.blog-entry-comments-inline {font-size: 1.05em;}
+
+.blog-archive-month {font-size: 2.15em;}
+
+.blog-archive-link {font-size: 1.15em;}
+
+a.blog-rss-link {font-size: 1.15em;}
+
+a.blog-comments-rss-link {font-size: 1.15em;}
+
+.filesharing-item-title {font-size: 2.2em;}
+
+.album-title {font-size: 2.5em;}
+
+
+/* For Smartphones ----------- */
+@media only screen 
+and (max-device-width : 480px) {
+
+}
+

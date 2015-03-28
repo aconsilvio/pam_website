@@ -1,0 +1,67 @@
+/*
+-------------------------------------------
+File: 'Blueball FreeStacks Responsive' 
+link_underline.css Style Sheet
+Created: 24, April, 2012
+Last Modified: 11, September, 2012
+Author: Charlie Lockhart, Blueball Design
+www.blueballdesign.com
+Copyright 2012 Charlie Lockhart/Blueball Design LLC USA
+All Rights Reserved
+-------------------------------------------
+*/
+
+
+a:link, a:visited, a:active {text-decoration: underline;}
+a:hover {text-decoration: none;}
+
+#sidebar a:link, #sidebar a:visited, #sidebar a:active {text-decoration: underline;}
+#sidebar a:hover {text-decoration: none;}
+
+#breadcrumbcontainer a,
+#breadcrumbcontainer a:visited, 
+#breadcrumbcontainer a:active {text-decoration: underline;}
+#breadcrumbcontainer a:hover {text-decoration: none;}
+
+#footer a:link, #footer a:visited, #footer a:active {text-decoration: underline;}
+#footer a:hover {text-decoration: none;}
+
+.blog-entry-body a {text-decoration: underline;}
+.blog-entry-body a:hover {text-decoration: none;}
+
+.blog-read-more a:link, .blog-read-more a:visited, .blog-read-more a:active {
+	text-decoration: underline;}
+.blog-read-more a:hover {text-decoration: none;}
+	
+p.blog-entry-tags a:link,
+p.blog-entry-tags a:active, p.blog-entry-tags a:visited {text-decoration: underline;}
+p.blog-entry-tags a:hover {text-decoration: none;}
+
+.blog-entry-category a:link, .blog-entry-category a:visited, .blog-entry-category a:active {
+	text-decoration: underline;}
+.blog-entry-category a:hover {text-decoration: none;}
+
+.blog-entry-comments a {text-decoration: underline;}
+.blog-entry-comments a:hover {text-decoration: none;}
+
+.blog-archive-link a:link, .blog-archive-link a:visited, .blog-archive-link a:active {
+text-decoration: underline;}
+.blog-archive-link a:hover {text-decoration: none;}
+
+.blog-category-link-enabled a:link, .blog-category-link-enabled a:visited, .blog-category-link-enabled a:active {text-decoration: underline;}
+.blog-category-link-enabled a:hover {text-decoration: none;}
+
+a.blog-rss-link,
+a.blog-comments-rss-link,
+a.blog-trackback-link {text-decoration: underline;}
+
+* html a.blog-rss-link {text-decoration: underline;}
+* html a.blog-comments-rss-link {text-decoration: underline;}
+
+.filesharing-item-title a:link, .filesharing-item-title a:visited, .filesharing-item-title a:active {text-decoration: underline;}
+.filesharing-item-title a:hover {text-decoration: none;}
+
+.photo-links a:link, .photo-links a:visited, .photo-links a:active {text-decoration: underline;}
+.photo-links a:hover {text-decoration: none;}
+
+

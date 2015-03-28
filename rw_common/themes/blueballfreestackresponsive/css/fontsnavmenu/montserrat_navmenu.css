@@ -1,0 +1,41 @@
+@import url("http://fonts.googleapis.com/css?family=Montserrat:700");
+
+/*
+-------------------------------------------
+File: 'Blueball FreeStack Responsive' 
+montserrat_navmenu.css Style Sheet
+Created: 18, November, 2014
+Last Modified: 18, November, 2014
+Author: Blueball Design
+www.blueballdesign.com
+Copyright 2013-2014 Blueball Design LLC USA/Charlie Lockhart
+All Rights Reserved
+-------------------------------------------
+*/
+
+#navbar, #navbar ul li a {
+	font-family: "Montserrat", Helvetica, Arial, sans-serif;
+}
+
+.mean-container .mean-bar {
+	font-family: "Montserrat", Helvetica, Arial, sans-serif;
+}
+
+.mean-container .mean-nav {
+	font-family: "Montserrat", Helvetica, Arial, sans-serif;
+}
+
+/*Sticky Nav Menu stacks desktop font styling*/
+#stickynavbar {
+	font-family: "Montserrat", Helvetica, Arial, sans-serif;
+}
+
+/*Sticky Nav Menu stacks mobile font styling*/
+.slicknav_nav {
+	font-family: "Montserrat", Helvetica, Arial, sans-serif;
+}
+
+/*Sticky Nav Menu stacks button font styling*/
+.slicknav_menu .slicknav_menutxt {
+	font-family: "Montserrat", Helvetica, Arial, sans-serif;
+}

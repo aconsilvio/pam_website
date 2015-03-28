@@ -1,0 +1,21 @@
+/*
+-------------------------------------------
+File: 'Blueball FreeStacks Responsive' bodybg_repeat.css Style Sheet
+Created: 31, August, 2012
+Last Modified: 12, February 2013
+Author: Charlie Lockhart, Blueball Design
+www.blueballdesign.com
+Copyright 2013 Charlie Lockhart/Blueball Design LLC USA
+All Rights Reserved
+-------------------------------------------
+*/
+
+body.bgResource{
+	background-position: top left;
+	background-repeat: repeat;
+}
+
+html.bgResource{
+	background-position: top left;
+	background-repeat: repeat;
+}

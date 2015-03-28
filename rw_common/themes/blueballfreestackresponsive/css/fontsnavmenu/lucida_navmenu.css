@@ -1,0 +1,39 @@
+/*
+-------------------------------------------
+File: 'Blueball FreeStack Responsive' 
+lucida_navmenu.css Style Sheet
+Created: 6, January, 2013
+Last Modified: 18, November, 2014
+Author: Blueball Design
+www.blueballdesign.com
+Copyright 2013-2014 Blueball Design LLC USA/Charlie Lockhart
+All Rights Reserved
+-------------------------------------------
+*/
+
+#navbar, #navbar ul li a {
+	font-family: "Lucida Grande", "Lucida Sans Unicode", Verdana, Arial, Helvetica, sans-serif;
+}
+
+.mean-container .mean-bar {
+	font-family: "Lucida Grande", "Lucida Sans Unicode", Verdana, Arial, Helvetica, sans-serif;
+}
+
+.mean-container .mean-nav {
+	font-family: "Lucida Grande", "Lucida Sans Unicode", Verdana, Arial, Helvetica, sans-serif;
+}
+
+/*Sticky Nav Menu stacks desktop font styling*/
+#stickynavbar {
+	font-family: "Lucida Grande", "Lucida Sans Unicode", Verdana, Arial, Helvetica, sans-serif;
+}
+
+/*Sticky Nav Menu stacks mobile font styling*/
+.slicknav_nav {
+	font-family: "Lucida Grande", "Lucida Sans Unicode", Verdana, Arial, Helvetica, sans-serif;	
+}
+
+/*Sticky Nav Menu stacks button font styling*/
+.slicknav_menu .slicknav_menutxt {
+	font-family: "Lucida Grande", "Lucida Sans Unicode", Verdana, Arial, Helvetica, sans-serif;	
+}

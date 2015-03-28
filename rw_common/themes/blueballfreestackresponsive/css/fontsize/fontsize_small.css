@@ -1,0 +1,66 @@
+/*
+-------------------------------------------
+File: 'Blueball FreeStacks Responsive' 
+fontsize_small.css Style Sheet
+Created: 18, December, 2012
+Last Modified: 05, February, 2013
+Author: Charlie Lockhart, Blueball Design
+www.blueballdesign.com
+Copyright 2013 Charlie Lockhart/Blueball Design LLC USA
+All Rights Reserved
+-------------------------------------------
+*/
+
+body {font-size: .78em; line-height:1.3em;}
+
+blockquote, .standout {font-size: 1.25em;}
+
+h1 {font-size: 2.3em;}
+
+h2 {font-size: 2em;}
+
+h3 {font-size: 1.5em;}
+
+h4 {font-size: 1.25em;}
+
+h5 {font-size: 1.1em;}
+
+#title h1 {font-size: 2.3em;}
+
+#slogan h2 {font-size: 1.25em;}
+
+#sidebar {font-size: .78em;}
+
+#sidebar .sideHeader {font-size: 1.1em;}
+
+#sidebar h5 {font-size: 1.1em;}
+
+#breadcrumbcontainer {font-size: .7em;}
+
+#footer {font-size: .7em;}
+
+.blog-entry-title {font-size: 2em;}
+
+.blog-read-more a:link, 
+.blog-read-more a:visited, 
+.blog-read-more a:active {font-size: .7em;}
+
+.blog-read-more a:hover {font-size: .7em;}
+
+p.blog-entry-tags {font-size: .7em;}
+
+.blog-entry-comments {font-size: .7em;}
+
+.blog-entry-comments-inline {font-size: .7em;}
+
+.blog-archive-month {font-size: 1.6em;}
+
+.blog-archive-link {font-size: .75em;}
+
+a.blog-rss-link {font-size: .75em;}
+
+a.blog-comments-rss-link {font-size: .75em;}
+
+.filesharing-item-title {font-size: 1.6em;}
+
+.album-title {font-size: 2em;}

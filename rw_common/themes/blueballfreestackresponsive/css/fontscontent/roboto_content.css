@@ -1,0 +1,34 @@
+@import url("http://fonts.googleapis.com/css?family=Roboto:400,300,500");
+
+/*
+-------------------------------------------
+File: 'Blueball FreeStack Responsive' 
+roboto_content.css Style Sheet
+Created: 15, April, 2014
+Last Modified: 19, November, 2014
+Author: Blueball Design
+www.blueballdesign.com
+Copyright 2013-2014 Blueball Design LLC USA/Charlie Lockhart
+All Rights Reserved
+-------------------------------------------
+*/
+
+body {
+	font-family: "Roboto", Helvetica, Arial, sans-serif;
+	font-weight: 400;
+}
+
+blockquote, .standout {
+	font-family: "Roboto", Helvetica, Arial, sans-serif;
+	font-weight: 500;
+}
+
+#slogan h2 {
+	font-family: "Roboto", Helvetica, Arial, sans-serif;
+	font-weight: 400;
+}
+
+#footer {
+	font-family: "Roboto", Helvetica, Arial, sans-serif;
+	font-weight: 400;
+}

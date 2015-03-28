@@ -1,0 +1,33 @@
+/*
+-------------------------------------------
+File: 'Blueball FreeStack Responsive' 
+helvetica_headline.css Style Sheet
+Created: 14, October, 2010
+Last Modified: 18, November, 2014
+Author: Blueball Design
+www.blueballdesign.com
+Copyright 2013-2014 Blueball Design LLC USA/Charlie Lockhart
+All Rights Reserved
+-------------------------------------------
+*/
+
+
+h1, h2, h3, h4, h5 {
+	font-family: "HelveticaNeue-Normal", "Helvetica Neue", Helvetica, Arial, Verdana, sans-serif;
+	font-weight: bold;
+}
+
+#pageheader h1,
+#sidebar .sideHeader,
+#sidebar h5, 
+.blog-entry-title, 
+.blog-archive-month, 
+.filesharing-item-title, 
+.album-title, 
+.photo-title, 
+.movie-page-title, 
+.movie-title {
+	font-family: "HelveticaNeue-Normal", "Helvetica Neue", Helvetica, Arial, Verdana, sans-serif;
+	font-weight: bold;
+}
+

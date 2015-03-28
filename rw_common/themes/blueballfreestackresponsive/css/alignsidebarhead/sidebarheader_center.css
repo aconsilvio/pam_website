@@ -1,0 +1,24 @@
+/*
+-------------------------------------------
+File: 'Blueball FreeStacks Responsive' 
+sidebarheader_center.css Style Sheet
+Created: 14, October, 2010
+Last Modified: 11, September, 2012
+Author: Charlie Lockhart, Blueball Design
+www.blueballdesign.com
+Copyright 2012 Charlie Lockhart/Blueball Design LLC USA
+All Rights Reserved
+-------------------------------------------
+*/
+
+
+#sidebar .sideHeader {
+	text-align: center;
+}
+
+#sidebar h5 {
+	text-align: center;
+}
+
+
+

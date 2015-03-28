@@ -1,0 +1,35 @@
+@import url("http://fonts.googleapis.com/css?family=Source Sans Pro:400,700");
+
+/*
+-------------------------------------------
+File: 'Blueball FreeStack Responsive' 
+sourcesanspro_content.css Style Sheet
+Created: 18, November, 2014
+Last Modified: 19, November, 2014
+Author: Blueball Design
+www.blueballdesign.com
+Copyright 2013-2014 Blueball Design LLC USA/Charlie Lockhart
+All Rights Reserved
+-------------------------------------------
+*/
+
+body {
+	font-family: "Source Sans Pro", Helvetica, Arial, sans-serif;
+	font-weight: 400;
+}
+
+blockquote, .standout {
+	font-family: "Source Sans Pro", Helvetica, Arial, sans-serif;
+	font-weight: 700;
+}
+
+#slogan h2 {
+	font-family: "Source Sans Pro", Helvetica, Arial, sans-serif;
+	font-weight: 400;
+}
+
+#footer {
+	font-family: "Source Sans Pro", Helvetica, Arial, sans-serif;
+	font-weight: 400;
+}
+

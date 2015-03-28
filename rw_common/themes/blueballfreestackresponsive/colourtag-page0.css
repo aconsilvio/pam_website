@@ -1,0 +1,155 @@
+/*
+-------------------------------------------
+File: 'Blueball FreeStacks Responsive' 
+Style Sheet: colourtag.css
+Created: 25, October, 2010
+Last Modified: 24, October, 2014
+Author: Charlie Lockhart, Blueball Design
+www.blueballdesign.com
+Copyright 2013 Charlie Lockhart/Blueball Design LLC USA
+All Rights Reserved
+-------------------------------------------
+*/
+
+body, html {
+	color: #000000;
+	background-color: #FFFFFF;
+}
+
+a:link, a:visited, a:active,
+.blog-entry-comments a,
+.rw-sitemap ul li a,
+.rw-sitemap ul li ul li a {
+	color: #0000FF;
+}
+
+a:hover,
+.blog-entry-comments a:hover,
+.filesharing-item-title a:hover,
+.blog-entry-title a:hover,
+.rw-sitemap ul li a:hover,
+.rw-sitemap ul li ul li a:hover {
+	color: #FF0000;
+}
+
+a:visited {
+	color: #800080;
+}
+
+h1, .blog-entry-title, .blog-entry-title a, .blog-archive-month,
+.filesharing-item-title, .filesharing-item-title a:link, .filesharing-item-title a:visited, .filesharing-item-title a:active,
+.album-title, .photo-title, blockquote, .standout {
+	color: #0A444B;
+}
+
+h2 {
+	color: #0A444B;
+}
+
+h3 {
+	color: #0A444B;
+}
+
+h4 {
+	color: #2FA59B;
+}
+
+h5 {
+	color: #FFFEFE;
+}
+
+#title h1 {
+	color: #0A444B;
+}
+
+#slogan h2 {
+	color: #666666;
+}
+
+#sidebar .sideHeader, #sidebar h5 {
+	color: #000000;
+}
+
+#sidebar {
+	color: #000000;
+}
+
+#sidebar a:link, #sidebar a:active {
+	color: #0000FF;
+}
+
+#sidebar a:visited {
+	color: #800080;
+}
+
+#sidebar a:hover {
+	color: #FF0000;
+}
+
+blockquote, .standout {
+	border-color: #000000;
+}
+
+#content {
+	color: #000000;
+}
+
+#footer {
+	color: #000000;
+}
+
+#footer p {
+	color: #000000;
+}
+
+#footer a:link, #footer a:active {
+	color: #0000FF;
+}
+
+#footer a:visited {
+	color: #800080;
+}
+
+#footer a:hover {
+	color: #FF0000;
+}
+
+#breadcrumbcontainer {
+	color: #000000;
+}
+
+#breadcrumbcontainer li {
+	color: #000000;
+}
+
+#breadcrumbcontainer a:link,
+#breadcrumbcontainer a:active {
+	color: #0000FF;
+}
+
+#breadcrumbcontainer a:hover {
+	color: #FF0000;
+}
+
+#breadcrumbcontainer a:visited {
+	color: #800080;
+}
+
+ul.blog-tag-cloud {
+	color: #FFFEFE;
+}
+
+.photo-links a:link, .photo-links a:visited, .photo-links a:active {
+	color: #0000FF;
+}
+
+.photo-links a:hover {
+	color: #FF0000;
+}
+
+/* Movie Page Titles */
+
+.movie-page-title, .movie-title {
+	color: #0A444B;
+}
+

@@ -1,0 +1,61 @@
+/*
+-------------------------------------------
+File: 'Blueball FreeStack Responsive' 
+bebas_headline.css Style Sheet
+Created: 11, December, 2013
+Last Modified: 18, November, 2014
+Author: Blueball Design
+www.blueballdesign.com
+Copyright 2013-2014 Blueball Design LLC USA/Charlie Lockhart
+All Rights Reserved
+-------------------------------------------
+*/
+
+
+@font-face {
+    font-family: 'bebas_neue_regularregular';
+    src: url('../../fonts/bebasneue_regular-webfont.eot');
+    src: url('../../fonts/bebasneue_regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../../fonts/bebasneue_regular-webfont.woff') format('woff'),
+         url('../../fonts/bebasneue_regular-webfont.ttf') format('truetype'),
+         url('../../fonts/bebasneue_regular-webfont.svg#bebas_neue_regularregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'bebas_neuebold';
+    src: url('../../fonts/bebasneue_bold-webfont.eot');
+    src: url('../../fonts/bebasneue_bold-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../../fonts/bebasneue_bold-webfont.woff') format('woff'),
+         url('../../fonts/bebasneue_bold-webfont.ttf') format('truetype'),
+         url('../../fonts/bebasneue_bold-webfont.svg#bebas_neuebold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+h1, h2, h4 {
+	font-family: 'bebas_neuebold', Arial, Helvetica, sans-serif;
+	letter-spacing: .75px;
+	font-weight: normal;
+}
+
+h3, h5 {
+	font-family: 'bebas_neue_regularregular', Arial, Helvetica, sans-serif;
+	letter-spacing: .75px;
+	font-weight: normal;
+}
+
+
+#pageheader h1,
+#sidebar .sideHeader,
+#sidebar h5, 
+.blog-entry-title, 
+.blog-archive-month, 
+.filesharing-item-title, 
+.album-title, 
+.photo-title, 
+.movie-page-title, 
+.movie-title {
+	font-family: 'bebas_neuebold', Arial, Helvetica, sans-serif;
+}

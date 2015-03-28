@@ -1,0 +1,34 @@
+@import url("http://fonts.googleapis.com/css?family=Yanone Kaffeesatz:300,400");
+
+/*
+-------------------------------------------
+File: 'Blueball FreeStack Responsive' 
+yanone_content.css Style Sheet
+Created: 28, December, 2012
+Last Modified: 19, November, 2014
+Author: Blueball Design
+www.blueballdesign.com
+Copyright 2013-2014 Blueball Design LLC USA/Charlie Lockhart
+All Rights Reserved
+-------------------------------------------
+*/
+
+body {
+	font-family: "Yanone Kaffeesatz", Helvetica, Arial, sans-serif;
+	font-weight: 300;
+}
+
+blockquote, .standout {
+	font-family: "Yanone Kaffeesatz", Helvetica, Arial, sans-serif;
+	font-weight: 400;
+}
+
+#slogan h2 {
+	font-family: "Yanone Kaffeesatz", Helvetica, Arial, sans-serif;
+	font-weight: 300;
+}
+
+#footer {
+	font-family: "Yanone Kaffeesatz", Helvetica, Arial, sans-serif;
+	font-weight: 300;
+}

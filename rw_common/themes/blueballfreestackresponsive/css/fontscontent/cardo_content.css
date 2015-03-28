@@ -1,0 +1,30 @@
+@import url("http://fonts.googleapis.com/css?family=Cardo:400");
+
+/*
+-------------------------------------------
+File: 'Blueball FreeStacks Responsive' 
+cardo_content.css Style Sheet
+Created: 28, December, 2012
+Last Modified: 18, November, 2014
+Author: Blueball Design
+www.blueballdesign.com
+Copyright 2012-2014 Blueball Design LLC USA/Charlie Lockhart
+All Rights Reserved
+-------------------------------------------
+*/
+
+
+body {
+	font-family: "Cardo", "Times New Roman", Times, serif;
+}
+
+blockquote, .standout {
+	font-family: "Cardo", "Times New Roman", Times, serif;
+}
+#slogan h2 {
+	font-family: "Cardo", "Times New Roman", Times, serif;
+}
+
+#footer {
+	font-family: "Cardo", "Times New Roman", Times, serif;
+}

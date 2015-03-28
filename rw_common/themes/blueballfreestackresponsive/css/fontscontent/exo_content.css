@@ -1,0 +1,34 @@
+@import url("http://fonts.googleapis.com/css?family=Exo:400,600");
+
+/*
+-------------------------------------------
+File: 'Blueball FreeStack Responsive' 
+exo_content.css Style Sheet
+Created: 15, April, 2014
+Last Modified: 19, November, 2014
+Author: Blueball Design
+www.blueballdesign.com
+Copyright 2013-2014 Blueball Design LLC USA/Charlie Lockhart
+All Rights Reserved
+-------------------------------------------
+*/
+
+body {
+	font-family: "Exo", Arial, Helvetica, sans-serif;
+	font-weight: 400;
+}
+
+blockquote, .standout {
+	font-family: "Exo", Arial, Helvetica, sans-serif;
+	font-weight: 600;
+}
+
+#slogan h2 {
+	font-family: "Exo", Arial, Helvetica, sans-serif;
+	font-weight: 600;
+}
+
+#footer {
+	font-family: "Exo", Arial, Helvetica, sans-serif;
+	font-weight: 400;
+}

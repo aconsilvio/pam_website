@@ -1,0 +1,33 @@
+@import url("http://fonts.googleapis.com/css?family=Rufina:700");
+
+/*
+-------------------------------------------
+File: 'Blueball FreeStack Responsive' 
+rufina_headline.css Style Sheet
+Created: 03, December, 2012
+Last Modified: 18, November, 2014
+Author: Blueball Design
+www.blueballdesign.com
+Copyright 2013-2014 Blueball Design LLC USA/Charlie Lockhart
+All Rights Reserved
+-------------------------------------------
+*/
+
+h1, h2, h3, h4, h5 {
+	font-family: "Rufina", Georgia, "Times New Roman", Times, serif;
+	font-weight: 700;
+}
+
+#pageheader h1,
+#sidebar .sideHeader,
+#sidebar h5, 
+.blog-entry-title, 
+.blog-archive-month, 
+.filesharing-item-title, 
+.album-title, 
+.photo-title, 
+.movie-page-title, 
+.movie-title {
+	font-family: "Rufina", Georgia, "Times New Roman", Times, serif;
+	font-weight: 700;
+}
